@@ -1,5 +1,5 @@
 #FLAT ICONS FOR OSX
-==============
+----------------------------------------------
 
 ###FREE FLAT ICONS FOR OSX
 

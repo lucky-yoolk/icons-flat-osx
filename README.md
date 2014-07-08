@@ -5,13 +5,18 @@
 
 Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 
-**Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated :) **
+*Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated*
 
 ####CHANGELOG
 
-*V1.2014.07.07* **Added Wirecast, Desktop Presenter, Spotify & Messages **
-*V1.2014.07.04* **Added Hard drives & CD's**
-*V1.2014.07.01* **First release**
+**V1.2014.07.07**
+*Added Wirecast, Desktop Presenter, Spotify & Messages*
+
+**V1.2014.07.04**
+*Added Hard drives & CD's*
+
+**V1.2014.07.01**
+*First release*
 
 ####AVAILABLE ICONS
 

@@ -5,9 +5,10 @@
 Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 
 *Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated*
-======================
-####CHANGELOG
 
+======================
+
+####CHANGELOG
 **V1.2014.07.07**
 *Added Wirecast, Desktop Presenter, Spotify & Messages*
 
@@ -16,7 +17,9 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 
 **V1.2014.07.01**
 *First release*
+
 ==========================
+
 ####AVAILABLE ICONS
 
 ######OSX

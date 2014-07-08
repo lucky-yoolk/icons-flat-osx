@@ -88,6 +88,9 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * GarageBand
 * Keybote
 * Launchpad
+* Microsoft Excel
+* Microsoft Powerpoint
+* Microsoft Word
 * Mission Control
 * Notes
 * Numbers

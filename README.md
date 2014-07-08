@@ -1,12 +1,11 @@
 #FLAT ICONS FOR OSX
-________________
-
+======================
 ###FREE FLAT ICONS FOR OSX
 
 Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 
 *Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated*
-
+======================
 ####CHANGELOG
 
 **V1.2014.07.07**
@@ -17,11 +16,10 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 
 **V1.2014.07.01**
 *First release*
-
+==========================
 ####AVAILABLE ICONS
 
 ######OSX
-
 * Folders
 * File Types
 * Trash
@@ -29,7 +27,6 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * CD's
 
 ######APPS
-
 * Adobe After Effect (App,Folder,Files)
 * Adobe Bridge (App,Folder)
 * Adobe Dreamweaver (App,Folder,Files)
@@ -67,14 +64,14 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Wirecast (App,Files)
 
 ######GARBAGE
-
 * CPU
 * Dragon Ball
 * Pokeball
 * Atom
 
-####TO DO LIST
+===================
 
+####TO DO LIST
 * Adium
 * AppZapper
 * Calibre

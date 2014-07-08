@@ -53,6 +53,7 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Google Chrome (App,Files)
 * Image Capture (App)
 * Imovie (App)
+* Intellij Idea
 * Iphoto (App)
 * Itunes (App,Files)
 * Launchpad (App)
@@ -84,8 +85,6 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Dropbox
 * Facetime
 * GarageBand
-* iMovie
-* Intellij IDEA
 * Keybote
 * Launchpad
 * Mission Control

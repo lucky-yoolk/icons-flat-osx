@@ -65,6 +65,7 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Quicktime (App,Files)
 * Sparrow (App,Files)
 * Spotify (App)
+* Sublime Text (App)
 * The Unarchiver (App,Files)
 * VideoLan (App,Files)
 * Wirecast (App,Files)
@@ -99,7 +100,6 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Skype
 * Starcraft II
 * Steam
-* Sublime Text
 * System Preferences
 * TeamViewer
 * TextEdit

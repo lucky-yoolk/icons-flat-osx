@@ -53,7 +53,7 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Google Chrome (App,Files)
 * Image Capture (App)
 * Imovie (App)
-* Intellij Idea
+* Intellij Idea (App)
 * Iphoto (App)
 * Itunes (App,Files)
 * Launchpad (App)

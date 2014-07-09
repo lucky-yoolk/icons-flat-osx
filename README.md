@@ -5,7 +5,7 @@
 Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
-*Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated*
+*Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated, also if a talented app developer can build us an install pkg for yosemite we will give him help for a website creation or gui as compensation*
 
 ======================
 

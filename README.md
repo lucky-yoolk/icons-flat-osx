@@ -37,6 +37,7 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Adobe Illustrator (App,Folder,Files)
 * Adobe Photoshop (App,Folder,Files)
 * Adobe Premiere (App,Folder,Files)
+* Air Video Server HD 
 * App Store (App)
 * Calculator (App)
 * Calendar (App)

@@ -86,12 +86,13 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Adium
 * AppZapper
 * Calibre
+* Cyberduck
 * Dashboard
 * Dropbox
 * Facetime
 * GarageBand
-* Keybote
-* Launchpad
+* Keynote
+* Maps
 * Microsoft Excel
 * Microsoft Powerpoint
 * Microsoft Word
@@ -101,6 +102,7 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Pages
 * Plex Home Theater
 * Plex Server
+* Pocket
 * Quicktime Player
 * Reminders
 * Safari
@@ -110,6 +112,7 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * System Preferences
 * TeamViewer
 * TextEdit
+* TextMate
 * Time Machine`
 * Transmission
 * Trillian

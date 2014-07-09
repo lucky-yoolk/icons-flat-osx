@@ -83,7 +83,11 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 ===================
 
 ####TO DO LIST
+* Ableton Live
 * Adium
+* Adobe Indesign
+* Adobe Lightroom
+* Adobe Reader
 * AppZapper
 * Calibre
 * Cyberduck
@@ -92,6 +96,7 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Facetime
 * GarageBand
 * Keynote
+* MacVim
 * Maps
 * Microsoft Excel
 * Microsoft Powerpoint
@@ -103,9 +108,10 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 * Plex Home Theater
 * Plex Server
 * Pocket
-* Quicktime Player
+* Reeder
 * Reminders
 * Safari
+* Simplenote
 * Skype
 * Starcraft II
 * Steam

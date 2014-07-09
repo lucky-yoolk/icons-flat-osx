@@ -9,6 +9,9 @@ Preview : [DrSlash.com/flat-icons](http://drslash.com/flat-icons/)
 ======================
 
 ####CHANGELOG
+**V1.2014.07.08**
+*Added SublimeText, IntellijIdea*
+
 **V1.2014.07.07**
 *Added Wirecast, Desktop Presenter, Spotify & Messages*
 

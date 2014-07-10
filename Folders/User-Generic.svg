@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+<svg id="User-Generic" image-rendering="optimizeSpeed" baseProfile="basic" version="1.1" style="background-color:#FFFFFF" x="0px" y="0px" width="1024px" height="1024px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs transform="matrix(1 0 0 1 0 0) "/>
+  <g id="Shadow">
+    <g id="shape">
+      <path id="path" fill="#000000" fill-opacity="0.09803921568627451" d="M782,94.4 L782,96.35 290.15,96.35 290.15,94.4 191,189.75 191,262.25 63.1,262.25 63.1,944.95 C63.1,957.5 73.45,967.8 85.95,967.8 L982.4,967.8 C994.9,967.8 1005.25,957.5 1005.25,944.95 L1005.25,262.25 881.3,262.25 881.3,189.75 782,94.4z M782,262.25 L290.15,262.25 290.15,189.75 782,189.75 782,262.25z"/>
+    </g>
+  </g>
+  <g id="Dark">
+    <g id="shape5">
+      <path id="path4" fill="#456A93" fill-opacity="1" d="M857.75,168.35 L760.4,74.95 264.6,74.95 167.45,168.35 857.75,168.35z M39.55,923.55 C39.55,936.1 49.9,946.4 62.4,946.4 L958.85,946.4 C971.35,946.4 981.7,936.1 981.7,923.55 L981.7,301.8 39.55,301.8 39.55,923.55z"/>
+    </g>
+  </g>
+  <g id="Light">
+    <g id="shape9">
+      <path id="path7" fill="#5B8CC4" fill-opacity="1" d="M981.7,301.8 L981.7,240.85 857.75,240.85 857.75,168.35 758.45,73 758.45,240.85 266.6,240.85 266.6,73 167.45,168.35 167.45,240.85 39.55,240.85 39.55,301.8 981.7,301.8z"/>
+    </g>
+  </g>
+</svg>

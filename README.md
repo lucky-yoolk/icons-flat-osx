@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.07.10**
+*Full reorganization, Added Safari*
+
 **V1.2014.07.08**
 *Added SublimeText, IntellijIdea*
 
@@ -68,6 +71,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * PhotoBooth (App)
 * Photos (App)
 * Quicktime (App,Files)
+* Safari (App,Files)
 * Sparrow (App,Files)
 * Spotify (App)
 * Sublime Text (App)
@@ -111,7 +115,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Pocket
 * Reeder
 * Reminders
-* Safari
 * Simplenote
 * Skype
 * Starcraft II

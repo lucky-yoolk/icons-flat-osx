@@ -11,6 +11,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ####CHANGELOG
 **V1.2014.07.10**
+*Added Microsoft Word, Excel, Powerpoint*
+
+**V1.2014.07.09**
 *Full reorganization, Added Safari*
 
 **V1.2014.07.08**
@@ -67,6 +70,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Launchpad (App)
 * Mail (App)
 * Messages (App,Files)
+* Microsoft Excel
+* Microsoft Powerpoint
+* Microsoft Word
 * Owncloud (App)
 * PhotoBooth (App)
 * Photos (App)
@@ -103,9 +109,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Keynote
 * MacVim
 * Maps
-* Microsoft Excel
-* Microsoft Powerpoint
-* Microsoft Word
 * Mission Control
 * Notes
 * Numbers

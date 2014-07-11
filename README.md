@@ -85,7 +85,8 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * VideoLan (App,Files)
 * Wirecast (App,Files)
 
-######GARBAGE
+######EXTRAS
+* Coda icon status
 * CPU
 * Dragon Ball
 * Pokeball

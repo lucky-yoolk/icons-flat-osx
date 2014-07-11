@@ -107,6 +107,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Dropbox
 * Facetime
 * GarageBand
+* iTerm
 * Keynote
 * MacVim
 * Maps
@@ -125,6 +126,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Steam
 * System Preferences
 * TeamViewer
+* Terminal
 * TextEdit
 * TextMate
 * Time Machine`

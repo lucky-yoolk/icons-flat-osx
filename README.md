@@ -133,3 +133,4 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Transmission
 * Trillian
 * Utorrent
+* VMWare Fusion

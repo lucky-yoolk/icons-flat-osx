@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.07.11**
+*Added Indesign, Lightroom, Unison, VMWare Fusion, Music folder, Movies folder*
+
 **V1.2014.07.10**
 *Added Microsoft Word, Excel, Powerpoint*
 
@@ -45,6 +48,8 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Adobe Dreamweaver (App,Folder,Files)
 * Adobe Flash (App,Folder,Files)
 * Adobe Illustrator (App,Folder,Files)
+* Adobe Indesign (App,Folder,Files)
+* Adobe Lightroom (App,Folder,Files)
 * Adobe Photoshop (App,Folder,Files)
 * Adobe Premiere (App,Folder,Files)
 * Air Video Server HD 

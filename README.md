@@ -104,8 +104,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ####TO DO LIST
 * Ableton Live
 * Adium
-* Adobe Indesign
-* Adobe Lightroom
 * Adobe Reader
 * AppZapper
 * Calibre

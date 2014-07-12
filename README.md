@@ -82,7 +82,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Spotify (App)
 * Sublime Text (App)
 * The Unarchiver (App,Files)
+* Unison (App,Files)
 * VideoLan (App,Files)
+* VMWare Fusion (App,Files)
 * Wirecast (App,Files)
 
 ######EXTRAS
@@ -133,4 +135,3 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Transmission
 * Trillian
 * Utorrent
-* VMWare Fusion

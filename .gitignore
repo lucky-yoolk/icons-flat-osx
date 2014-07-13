@@ -1,6 +1,6 @@
 #.project specific #
 ####################
-!spec/*.fla
+.fla
 
 # OS generated files #
 ######################

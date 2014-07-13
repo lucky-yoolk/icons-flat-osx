@@ -46,6 +46,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * CD's
 
 ######APPS
+* Adobe Acrobat Reader (App)
 * Adobe After Effect (App,Folder,Files)
 * Adobe Bridge (App,Folder)
 * Adobe Dreamweaver (App,Folder,Files)
@@ -55,8 +56,8 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Adobe Lightroom (App,Folder,Files)
 * Adobe Photoshop (App,Folder,Files)
 * Adobe Premiere (App,Folder,Files)
-* Air Video Server HD 
 * App Store (App)
+* AppZapper (App)
 * Calculator (App)
 * Calendar (App)
 * Clear (App,File)
@@ -109,8 +110,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ####TO DO LIST
 * Ableton Live
 * Adium
-* Adobe Reader
-* AppZapper
+* Air Video Server HD
 * Calibre
 * Cyberduck
 * Dashboard

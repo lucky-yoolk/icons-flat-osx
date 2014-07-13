@@ -61,6 +61,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Contacts (App,Files)
 * Desktop Presenter (App)
 * Evernote (App)
+* Facetime (App)
 * Finder (App)
 * Firefox (App,Files)
 * Font Book (App,Files)
@@ -110,7 +111,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Cyberduck
 * Dashboard
 * Dropbox
-* Facetime
 * GarageBand
 * iTerm
 * Keynote

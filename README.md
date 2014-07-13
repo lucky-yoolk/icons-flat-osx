@@ -11,7 +11,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ####CHANGELOG
 **V1.2014.07.12**
-*Added Acrobat Reader, AppZapper, Ibooks, Facetime*
+*Added Acrobat Reader, AppZapper, Ibooks, Facetime, Terminal, Iterm*
 
 **V1.2014.07.11**
 *Added Indesign, Lightroom, Unison, VMWare Fusion, Music folder, Movies folder*

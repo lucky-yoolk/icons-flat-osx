@@ -11,7 +11,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ####CHANGELOG
 **V1.2014.07.12**
-*Added Acrobat Reader, Facetime*
+*Added Acrobat Reader, Ibooks, Facetime*
 
 **V1.2014.07.11**
 *Added Indesign, Lightroom, Unison, VMWare Fusion, Music folder, Movies folder*
@@ -71,6 +71,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Geektool (App)
 * Github (App,Folder)
 * Google Chrome (App,Files)
+* IBooks (App)
 * Image Capture (App)
 * Imovie (App)
 * Intellij Idea (App)

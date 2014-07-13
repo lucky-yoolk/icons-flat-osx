@@ -77,6 +77,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Imovie (App)
 * Intellij Idea (App)
 * Iphoto (App)
+* Iterm (App)
 * Itunes (App,Files)
 * Launchpad (App)
 * Mail (App)
@@ -92,6 +93,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Sparrow (App,Files)
 * Spotify (App)
 * Sublime Text (App)
+* Terminal (App)
 * The Unarchiver (App,Files)
 * Unison (App,Files)
 * VideoLan (App,Files)
@@ -116,7 +118,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Dashboard
 * Dropbox
 * GarageBand
-* iTerm
 * Keynote
 * MacVim
 * Maps
@@ -135,7 +136,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Steam
 * System Preferences
 * TeamViewer
-* Terminal
 * TextEdit
 * TextMate
 * Time Machine`

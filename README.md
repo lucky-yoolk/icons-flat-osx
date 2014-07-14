@@ -11,7 +11,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ####CHANGELOG
 **V1.2014.07.13**
-*Added Adium, Cyberduck & a new category called "Devices" with icons for apple products*
+*Added Adium, Calibre, Cyberduck & a new category called "Devices" with icons for apple products*
 
 **V1.2014.07.12**
 *Added Acrobat Reader, AppZapper, Ibooks, Facetime, Simplenote, Terminal, Iterm*
@@ -64,6 +64,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * AppZapper (App)
 * Calculator (App)
 * Calendar (App)
+* Calibre (App)
 * Clear (App,File)
 * Coda (App,Files,Dock activity)
 * Contacts (App,Files)
@@ -118,7 +119,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ####TO DO LIST
 * Ableton Live
 * Air Video Server HD
-* Calibre
 * Dashboard
 * Dropbox
 * GarageBand

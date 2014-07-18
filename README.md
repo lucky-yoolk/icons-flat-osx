@@ -11,7 +11,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ####CHANGELOG
 **V1.2014.07.18**
-*Added Time Machine*
+*Added Time Machine, Dropbox*
 
 **V1.2014.07.13**
 *Added Adium, Calibre, Cyberduck & a new category called "Devices" with icons for apple products*
@@ -73,6 +73,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Contacts (App,Files)
 * Cyberduck (App)
 * Desktop Presenter (App)
+* Dropbox (App)
 * Evernote (App)
 * Facetime (App)
 * Finder (App)
@@ -124,7 +125,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Ableton Live
 * Air Video Server HD
 * Dashboard
-* Dropbox
 * GarageBand
 * Keynote
 * MacVim

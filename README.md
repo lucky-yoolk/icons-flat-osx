@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.07.18**
+*Added Time Machine*
+
 **V1.2014.07.13**
 *Added Adium, Calibre, Cyberduck & a new category called "Devices" with icons for apple products*
 
@@ -102,6 +105,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Sublime Text (App)
 * Terminal (App)
 * The Unarchiver (App,Files)
+* Time Machine (App)
 * Unison (App,Files)
 * VideoLan (App,Files)
 * VMWare Fusion (App,Files)
@@ -142,7 +146,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * TeamViewer
 * TextEdit
 * TextMate
-* Time Machine`
 * Transmission
 * Trillian
 * Utorrent

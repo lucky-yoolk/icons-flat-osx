@@ -11,7 +11,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ####CHANGELOG
 **V1.2014.07.19**
-*Added Batman + games section*
+*Added Batman, Limbo + games section*
 
 **V1.2014.07.18**
 *Added Time Machine, Dropbox*
@@ -93,6 +93,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Iterm (App)
 * Itunes (App,Files)
 * Launchpad (App)
+* Limbo (App)
 * Mail (App)
 * Messages (App,Files)
 * Microsoft Excel
@@ -174,7 +175,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Fieldrunners
 * Gone Home
 * Hotline Miami
-* Limbo
 * Machinarium
 * Mark of the ninja
 * Minecraft

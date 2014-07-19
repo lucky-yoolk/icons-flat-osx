@@ -122,6 +122,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ===================
 
 ####TO DO LIST
+
+##APPS
+
 * Ableton Live
 * Air Video Server HD
 * Dashboard
@@ -149,3 +152,44 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Transmission
 * Trillian
 * Utorrent
+
+#@ GAMES
+
+* Angry Birds Space
+* Anomaly Warzone Earth
+* The Banner Saga
+* Bastion
+* Batman: Arkham City
+* BioShock
+* BioShock Infinite
+* Borderlands 2
+* Call of Duty: Black Ops
+* Civilization V
+* Deus Ex: Human Revolution
+* Doom 3
+* Fez
+* Fieldrunners
+* Gone Home
+* Hotline Miami
+* Limbo
+* Machinarium
+* Mark of the ninja
+* Minecraft
+* Peggle
+* Plants vs. Zombies
+* Portal
+* Rayman Origins
+* Rochard
+* Secret of Monkey Island
+* Shardlands
+* Sky Gamblers: Storm Raiders
+* Star Wars: Knights of the Old Republic
+* Superbrothers: Sword & Sworcery EP 
+* Team Fortress 2
+* The Incident
+* Tomb Raider
+* Walking Dead: The Game
+* Waking Mars
+* Witcher 2: Assassins of Kings
+* World of Goo
+* XCOM: Enemy Unknown

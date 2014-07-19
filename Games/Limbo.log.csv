@@ -1,0 +1,19 @@
+Operation,Total Time,Average Time
+extensible.SVG(),3893,3893
+extensible.SVG.begin(),414,207
+extensible.SVG.getProgressIncrements(),48,12
+extensible.SVG._getTimeline(),410,102.5
+extensible.Array.is,56,0.13365155131264916
+extensible.SVG._getShape() >> 1,1408,201.14285714285714
+extensible.Contour.getEdges(),153,10.2
+HalfEdge getEdge.,119,0.2413793103448276
+HalfEdge getNext.,79,0.16024340770791076
+extensible.SVG._getContour(),1222,135.77777777777777
+extensible.Contour.getControlPoints() >> Point Lookup,624,78
+Edge getControl.,16,0.41025641025641024
+Extensible.Shape.getCubicSegmentPoints(),325,2.1812080536912752
+extensible.Contour.getControlPoints() >> Order Check,438,54.75
+extensible.SVG._getFill(),10,1.1111111111111112
+extensible.SVG._getCurve(),34,3.7777777777777777
+extensible.SVG._getSymbolInstance(),66,22
+extensible.Fill.is(),0,0

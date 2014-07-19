@@ -153,7 +153,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Trillian
 * Utorrent
 
-#@ GAMES
+##GAMES
 
 * Angry Birds Space
 * Anomaly Warzone Earth

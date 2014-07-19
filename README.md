@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.07.19**
+*Added Batman + games section*
+
 **V1.2014.07.18**
 *Added Time Machine, Dropbox*
 
@@ -111,6 +114,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * VideoLan (App,Files)
 * VMWare Fusion (App,Files)
 * Wirecast (App,Files)
+* Games : Batman Arkham City
 
 ######EXTRAS
 * Coda icon status
@@ -123,7 +127,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ####TO DO LIST
 
-##APPS
+#####APPS
 
 * Ableton Live
 * Air Video Server HD
@@ -153,13 +157,12 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Trillian
 * Utorrent
 
-##GAMES
+#####GAMES
 
 * Angry Birds Space
 * Anomaly Warzone Earth
 * The Banner Saga
 * Bastion
-* Batman: Arkham City
 * BioShock
 * BioShock Infinite
 * Borderlands 2

@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.07.26**
+*Added Ableton Live, Bittorrent, Delicious library, Macvim, Subler, Transmit, Tweetbot, Twitter*
+
 **V1.2014.07.19**
 *Added Batman, Limbo + games section*
 

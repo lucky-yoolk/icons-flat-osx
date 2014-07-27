@@ -78,6 +78,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Coda (App,Files,Dock activity)
 * Contacts (App,Files)
 * Cyberduck (App)
+* Delicious Library (App)
 * Desktop Presenter (App)
 * Dropbox (App)
 * Evernote (App)
@@ -97,6 +98,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Itunes (App,Files)
 * Launchpad (App)
 * Limbo (App)
+* MacVim (App)
 * Mail (App)
 * Messages (App,Files)
 * Microsoft Excel
@@ -110,10 +112,14 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Simplenote (App)
 * Sparrow (App,Files)
 * Spotify (App)
+* Subler (App)
 * Sublime Text (App)
 * Terminal (App)
 * The Unarchiver (App,Files)
 * Time Machine (App)
+* Transmit (App)
+* Tweetbit (App)
+* Twitter (App)
 * Unison (App,Files)
 * VideoLan (App,Files)
 * VMWare Fusion (App,Files)
@@ -133,12 +139,10 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 #####APPS
 
-* Ableton Live
 * Air Video Server HD
 * Dashboard
 * GarageBand
 * Keynote
-* MacVim
 * Maps
 * Mission Control
 * Notes
@@ -147,19 +151,20 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Plex Home Theater
 * Plex Server
 * Pocket
-* Reeder
 * Reminders
-* Simplenote
+* Simple Comic
 * Skype
 * Starcraft II
 * Steam
 * System Preferences
 * TeamViewer
+* Telegram
 * TextEdit
 * TextMate
 * Transmission
 * Trillian
 * Utorrent
+* vWorkspace
 
 #####GAMES
 
@@ -177,6 +182,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Fez
 * Fieldrunners
 * Gone Home
+* Hearthstone
 * Hotline Miami
 * Machinarium
 * Mark of the ninja

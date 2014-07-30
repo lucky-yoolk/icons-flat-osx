@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.07.30**
+*Added Trillian*
+
 **V1.2014.07.26**
 *Added Ableton Live, Bittorrent, Delicious library, Macvim, Subler, Transmit, Tweetbot, Twitter*
 
@@ -48,98 +51,10 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ==========================
 
-####AVAILABLE ICONS
-
-######OSX
-* Folders
-* File Types
-* Trash
-* Hard Dives
-* CD's
-
-######APPS
-* Adium (App)
-* Adobe Acrobat Reader (App)
-* Adobe After Effect (App,Folder,Files)
-* Adobe Bridge (App,Folder)
-* Adobe Dreamweaver (App,Folder,Files)
-* Adobe Flash (App,Folder,Files)
-* Adobe Illustrator (App,Folder,Files)
-* Adobe Indesign (App,Folder,Files)
-* Adobe Lightroom (App,Folder,Files)
-* Adobe Photoshop (App,Folder,Files)
-* Adobe Premiere (App,Folder,Files)
-* App Store (App)
-* AppZapper (App)
-* Calculator (App)
-* Calendar (App)
-* Calibre (App)
-* Clear (App,File)
-* Coda (App,Files,Dock activity)
-* Contacts (App,Files)
-* Cyberduck (App)
-* Delicious Library (App)
-* Desktop Presenter (App)
-* Dropbox (App)
-* Evernote (App)
-* Facetime (App)
-* Finder (App)
-* Firefox (App,Files)
-* Font Book (App,Files)
-* Geektool (App)
-* Github (App,Folder)
-* Google Chrome (App,Files)
-* IBooks (App)
-* Image Capture (App)
-* Imovie (App)
-* Intellij Idea (App)
-* Iphoto (App)
-* Iterm (App)
-* Itunes (App,Files)
-* Launchpad (App)
-* Limbo (App)
-* MacVim (App)
-* Mail (App)
-* Messages (App,Files)
-* Microsoft Excel
-* Microsoft Powerpoint
-* Microsoft Word
-* Owncloud (App)
-* PhotoBooth (App)
-* Photos (App)
-* Quicktime (App,Files)
-* Safari (App,Files)
-* Simplenote (App)
-* Sparrow (App,Files)
-* Spotify (App)
-* Subler (App)
-* Sublime Text (App)
-* Terminal (App)
-* The Unarchiver (App,Files)
-* Time Machine (App)
-* Transmit (App)
-* Tweetbit (App)
-* Twitter (App)
-* Unison (App,Files)
-* VideoLan (App,Files)
-* VMWare Fusion (App,Files)
-* Wirecast (App,Files)
-* Games : Batman Arkham City
-
-######EXTRAS
-* Coda icon status
-* CPU
-* Dragon Ball
-* Pokeball
-* Atom
-
-===================
-
 ####TO DO LIST
 
 #####APPS
 
-* Air Video Server HD
 * Dashboard
 * GarageBand
 * Keynote
@@ -162,7 +77,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * TextEdit
 * TextMate
 * Transmission
-* Trillian
 * Utorrent
 * vWorkspace
 

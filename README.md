@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.08.03**
+*Added Plex Home Theater, Plex Server, Transmission, Skype, System Preferences*
+
 **V1.2014.07.30**
 *Added Trillian*
 
@@ -63,20 +66,14 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Notes
 * Numbers
 * Pages
-* Plex Home Theater
-* Plex Server
 * Pocket
 * Reminders
 * Simple Comic
-* Skype
-* Starcraft II
 * Steam
-* System Preferences
 * TeamViewer
 * Telegram
 * TextEdit
 * TextMate
-* Transmission
 * Utorrent
 * vWorkspace
 

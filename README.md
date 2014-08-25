@@ -10,7 +10,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
-**V1.2014.08.21**
+**V1.2014.08.23**
 *Added Codekit, Slack*
 
 **V1.2014.08.21**

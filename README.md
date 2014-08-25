@@ -96,7 +96,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Fez
 * Fieldrunners
 * Gone Home
-* Hearthstone
 * Hotline Miami
 * Machinarium
 * Mark of the ninja

@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.08.21**
+*Added Hanbrake, Hearthstone, Starcraft 2 Wings of Liberty*
+
 **V1.2014.08.03**
 *Added Plex Home Theater, Plex Server, Transmission, Skype, System Preferences*
 

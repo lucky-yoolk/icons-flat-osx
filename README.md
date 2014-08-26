@@ -64,6 +64,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 #####APPS
 
+* Battle.net Launcher
 * Dashboard
 * GarageBand
 * Keynote
@@ -95,10 +96,13 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Call of Duty: Black Ops
 * Civilization V
 * Deus Ex: Human Revolution
+* Diablo 2
+* Diablo 3
 * Doom 3
 * Fez
 * Fieldrunners
 * Gone Home
+* Heroes of the Storm
 * Hotline Miami
 * Machinarium
 * Mark of the ninja
@@ -120,4 +124,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Waking Mars
 * Witcher 2: Assassins of Kings
 * World of Goo
+* World of Warcraft
+* Warcraft 3: Reign of Chaos
+* Warcraft 3: The Frozen Throne
 * XCOM: Enemy Unknown

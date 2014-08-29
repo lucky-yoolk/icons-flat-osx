@@ -10,6 +10,9 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 ======================
 
 ####CHANGELOG
+**V1.2014.08.27**
+*Added 1Password, Byword, DayOne, Outlook, Rdio, SimpleComic, Telegram, Vworkspace*
+
 **V1.2014.08.23**
 *Added Codekit, Slack*
 

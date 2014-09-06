@@ -13,11 +13,44 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 #####APPS
 
+* AppCLeaner
 * Battle.net Launcher
+* Clarify
+* CleanMyMac
+* ColorPicker
+* Dictionnary
+* DvD Player
+* Game Center
+* GifBrewery
+* Gradient
+* ImageAlpha
+* ImageOptim
+* Keka
+* LiteIcon
 * Maps
+* Onyx
+* Packages
+* PhoneView
+* Picasa
 * Pocket
+* PoEdit
+* Prepo
+* Quick File Renamer
+* Remotix
+* Screen capture Tool
+* ScreenFlow
+* Screeny
+* Serveur Media Free
+* Simplify
+* SiteSucker
+* SocialSafe
+* SpriteMonkey
+* Stickies
 * TextMate
+* TorBrowser
 * Utorrent
+* Vector Magic
+* VueScan
 
 #####GAMES
 
@@ -29,6 +62,7 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * BioShock Infinite
 * Borderlands 2
 * Call of Duty: Black Ops
+* Chess
 * Civilization V
 * Deus Ex: Human Revolution
 * Diablo 2

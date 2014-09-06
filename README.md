@@ -68,24 +68,10 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 #####APPS
 
 * Battle.net Launcher
-* Dashboard
-* GarageBand
-* Keynote
 * Maps
-* Mission Control
-* Notes
-* Numbers
-* Pages
 * Pocket
-* Reminders
-* Simple Comic
-* Steam
-* TeamViewer
-* Telegram
-* TextEdit
 * TextMate
 * Utorrent
-* vWorkspace
 
 #####GAMES
 
@@ -127,7 +113,4 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 * Waking Mars
 * Witcher 2: Assassins of Kings
 * World of Goo
-* World of Warcraft
-* Warcraft 3: Reign of Chaos
-* Warcraft 3: The Frozen Throne
 * XCOM: Enemy Unknown

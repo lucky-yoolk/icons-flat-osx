@@ -9,60 +9,6 @@ Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 
 ======================
 
-####CHANGELOG
-**V1.2014.08.27**
-*Added 1Password, Byword, DayOne, Outlook, Rdio, SimpleComic, Telegram, Vworkspace*
-
-**V1.2014.08.23**
-*Added Codekit, Slack*
-
-**V1.2014.08.21**
-*Added Hanbrake, Hearthstone, Starcraft 2 Wings of Liberty*
-
-**V1.2014.08.03**
-*Added Plex Home Theater, Plex Server, Transmission, Skype, System Preferences*
-
-**V1.2014.07.30**
-*Added Trillian*
-
-**V1.2014.07.26**
-*Added Ableton Live, Bittorrent, Delicious library, Macvim, Subler, Transmit, Tweetbot, Twitter*
-
-**V1.2014.07.19**
-*Added Batman, Limbo + games section*
-
-**V1.2014.07.18**
-*Added Time Machine, Dropbox*
-
-**V1.2014.07.13**
-*Added Adium, Calibre, Cyberduck & a new category called "Devices" with icons for apple products*
-
-**V1.2014.07.12**
-*Added Acrobat Reader, AppZapper, Ibooks, Facetime, Simplenote, Terminal, Iterm*
-
-**V1.2014.07.11**
-*Added Indesign, Lightroom, Unison, VMWare Fusion, Music folder, Movies folder*
-
-**V1.2014.07.10**
-*Added Microsoft Word, Excel, Powerpoint*
-
-**V1.2014.07.09**
-*Full reorganization, Added Safari*
-
-**V1.2014.07.08**
-*Added SublimeText, IntellijIdea*
-
-**V1.2014.07.07**
-*Added Wirecast, Desktop Presenter, Spotify & Messages*
-
-**V1.2014.07.04**
-*Added Hard drives & CD's*
-
-**V1.2014.07.01**
-*First release*
-
-==========================
-
 ####TO DO LIST
 
 #####APPS

@@ -2,10 +2,6 @@
 
 ![ScreenShot](http://drslash.com/wp-content/uploads/2014/07/SLASHOS.jpg)
 
-
-======================
-###FREE FLAT ICONS FOR OSX
-
 Preview : [Drslash.com/icons/flat-osx/](http://en.drslash.com/icons/flat-osx/)
 Install : https://github.com/dr-slash/icons-flat-osx/wiki/Install
 

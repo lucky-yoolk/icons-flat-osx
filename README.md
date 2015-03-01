@@ -35,4 +35,4 @@ Send your custom icons [here](https://github.com/dr-slash/icons-flat-osx/issues/
 I'm not that good in english ^^ if somebody can correct wrong words and sentence, you're welcome!
 
 ### Contibutors
-[Dr SLash](http://drslash.com/), [Haribow](http://oneharibow.tumblr.com/).
+[DrSLash](http://drslash.com/), [Haribow](http://oneharibow.tumblr.com/).

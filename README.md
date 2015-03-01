@@ -2,16 +2,17 @@
 
 ![ScreenShot](http://drslash.com/wp-content/uploads/2014/07/SLASHOS.jpg)
 
-Preview : [Drslash.com/flat-osx-pack/](http://drslash.com/flat-osx-pack/)
+### Preview
+[Drslash.com/flat-osx-pack/](http://drslash.com/flat-osx-pack/)
 
 *Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated :)*
 
 ## INSTALL
 
-### Install Apps, Folders, Volumes:
+### Install Apps, Folders, Volumes
 Use [LiteIcon](http://www.freemacsoft.net/liteicon/).
 
-### Install Coda Badges:
+### Install Coda Badges
 Right click Coda App > Show Package content > Contents/Resources/ > paste files from APP-Coda2/extra folder > Restart. (Will ask for authentication)
 
 ### Install File Types

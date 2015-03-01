@@ -21,13 +21,14 @@ Right click App > Show Package content >  Contents/Resources/ > Replace heach fi
 ## CONTRIBUTE
 
 ### Icons Request
-Please open an issue [here](https://github.com/dr-slash/icons-flat-osx/) 
+Please open an issue [here](https://github.com/dr-slash/icons-flat-osx/issues) 
 issues through emails and facebook are not fulfilled.
 
 ### Create your icons
-I've included a basic template both .svg & .fla files (cause i've always used Flash to create basic shapes, i find it more practical), use this basic flat design rules of this set : no gradient, no flashy colors, 45° angles, Background circle shadow with 10% opacity black...
-Send your custom icons [here](https://github.com/dr-slash/icons-flat-osx/issues/42), submitions must provide your name, your website, and an svg file at least.
-*Please dont contribute if you're not a confirmed designer, i dont validate if it doesnt fit with actual set*
+I've included a basic template both .svg & .fla files (cause i've always used Flash to create basic shapes, i find it more practical). 
+Use this basic rules : no gradient, no flashy colors, 45° angles...
+Send your custom icons [here](https://github.com/dr-slash/icons-flat-osx/issues/42), submissions must provide your name, your website, and an svg file at least.
+*Please dont contribute if you're not a confirmed designer, i dont validate if it doesnt fit with actual set.*
 
 ### Contibutors
 [Dr SLash](http://drslash.com/), [Haribow](http://oneharibow.tumblr.com/).

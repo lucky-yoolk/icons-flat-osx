@@ -32,4 +32,4 @@ I've included a basic template both .svg & .fla files.
 I'm not that good in english ^^ if somebody can correct wrong words and sentence, you're welcome!
 
 ### Contibutors
-[DrSLash](http://drslash.com/), [Haribow](http://oneharibow.tumblr.com/).
+[DrSLash](http://drslash.com/), [Haribow](http://oneharibow.tumblr.com/). [Ben Saltz](https://github.com/b2550)

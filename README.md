@@ -1,6 +1,6 @@
 #FLAT ICONS FOR OSX
 
-![ScreenShot](http://drslash.com/wp-content/uploads/2014/07/SLASHOS.jpg)
+![ScreenShot](https://drslash.com/wp-content/uploads/2014/07/SLASHOS.jpg)
 
 ### Preview
 [https://drslash.com/flat-osx-pack/](https://drslash.com/flat-osx-pack/)

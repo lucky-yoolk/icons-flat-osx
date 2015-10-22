@@ -18,6 +18,7 @@ Right click App > Show Package content >  Contents/Resources/ > Replace heach fi
 
 
 ## CONTRIBUTE
+FLAT OS by DrSlash.com is licensed under a Creative Commons Attribution – NonCommercial 4.0 International License.
 
 ### Icons Request
 Please open an issue [here](https://github.com/dr-slash/icons-flat-osx/issues).

@@ -3,7 +3,7 @@
 ### Preview
 [https://drslash.com/flat-osx-pack/](https://drslash.com/flat-osx-pack/)
 
-*Dont hesitate to request your favorite app icon, or leave a technical help, this is our first icon set so feedback will be really appreciated :)*
+*Dont hesitate to request your favorite app icon, or leave a technical help, this is my first icon set so feedback will be really appreciated :)*
 
 ## INSTALL
 

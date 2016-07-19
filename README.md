@@ -27,6 +27,9 @@ Issues through emails and Facebook are not fulfilled.
 ### Create your icons
 I've included a basic template both .svg & .fla files.
 
+### App Creators
+Please dont ask to use one of my icons for your custom app, otherwise ask for a custom one dedicated to your app ;)
+
 ### Text Corrections
 I'm not that good in english ^^ if somebody can correct wrong words and sentence, you're welcome!
 

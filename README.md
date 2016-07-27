@@ -8,7 +8,7 @@
 ## INSTALL
 
 ### Install Apps, Folders, Volumes
-Use [LiteIcon](http://www.freemacsoft.net/liteicon/).
+Use [LiteIcon](http://www.freemacsoft.net/liteicon/).You must [disable sips](http://hashbangstar.net/blog/changing-icons-in-el-capitan) to install icons on default osx apps
 
 ### Install Coda Badges
 Right click Coda App > Show Package content > Contents/Resources/ > paste files from APP-Coda2/extra folder > Restart. (Will ask for authentication)

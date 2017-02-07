@@ -1,7 +1,7 @@
 #FLAT ICONS FOR OSX
 
 ### Preview
-[https://drslash.com/flat-osx-pack/](https://drslash.com/flat-osx-pack/)
+[https://synth.agency/lab/flat-osx/](https://synth.agency/lab/flat-osx/)
 
 *Dont hesitate to request your favorite app icon, or leave a technical help, this is my first icon set so feedback will be really appreciated :)*
 
@@ -21,7 +21,7 @@ Right click App > Show Package content >  Contents/Resources/ > Replace heach fi
 FLAT OS by DrSlash.com is licensed under a Creative Commons Attribution – NonCommercial 4.0 International License.
 
 ### Icons Request
-Please open an issue [here](https://github.com/dr-slash/icons-flat-osx/issues).
+Please open an issue [here](https://github.com/synthagency/icons-flat-osx/issues).
 Issues through emails and Facebook are not fulfilled.
 
 ### Create your icons
@@ -34,4 +34,4 @@ Please dont ask to use one of my icons for your custom app, otherwise ask for a 
 I'm not that good in english ^^ if somebody can correct wrong words and sentence, you're welcome!
 
 ### Contibutors
-[DrSLash](http://drslash.com/), [Haribow](http://oneharibow.tumblr.com/). [Ben Saltz](https://github.com/b2550)
+[DrSLash](https://synth.agency/), [Haribow](http://oneharibow.tumblr.com/). [Ben Saltz](https://github.com/b2550)

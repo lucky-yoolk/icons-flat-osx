@@ -1,4 +1,6 @@
-#FLAT ICONS FOR OSX
+# FLAT ICONS FOR OSX
+
+![Screenshot](https://synth.agency/wp-content/uploads/2015/08/drslash-flat-icons.png)
 
 ### Preview
 [https://synth.agency/lab/flat-osx/](https://synth.agency/lab/flat-osx/)

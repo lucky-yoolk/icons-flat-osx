@@ -36,4 +36,4 @@ Please dont ask to use one of my icons for your custom app, otherwise ask for a 
 I'm not that good in english ^^ if somebody can correct wrong words and sentence, you're welcome!
 
 ### Contibutors
-[DrSLash](https://synth.agency/), [Haribow](http://oneharibow.tumblr.com/), [Ben Saltz](https://github.com/b2550)
+[Synth](https://synth.agency/), [Haribow](http://oneharibow.tumblr.com/), [Ben Saltz](https://github.com/b2550)

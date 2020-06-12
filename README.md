@@ -18,16 +18,14 @@ Right click Coda App > Show Package content > Contents/Resources/ > paste files 
 ### Install File Types
 Right click App > Show Package content >  Contents/Resources/ > Replace heach file type > Restart. (Will ask for authentication)
 
-
 ## CONTRIBUTE
 FLAT OS by Synth.agency is licensed under a Creative Commons Attribution – NonCommercial 4.0 International License.
 
 ### Icons Request
 Please open an issue [here](https://github.com/synthagency/icons-flat-osx/issues).
-Issues through emails and Facebook are not fulfilled.
 
 ### Create your icons
-I've included a basic template both .svg & .fla files.
+I've included a basic template both apps and folders.
 
 ### App Creators
 Please dont ask to use one of my icons for your custom app, otherwise ask for a custom one dedicated to your app ;)

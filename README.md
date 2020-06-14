@@ -1,4 +1,4 @@
-# FLAT ICONS FOR OSX
+# FLAT ICONS FOR OSX (But Not Only)
 
 ![Screenshot](https://synth.agency/wp-content/uploads/2015/08/drslash-flat-icons.png)
 

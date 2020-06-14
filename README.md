@@ -29,7 +29,7 @@ Please open an issue [here](https://github.com/synthagency/icons-flat-osx/issues
 I've included a basic template both apps and folders.
 
 ### App Creators
-Please dont ask to use one of my icons for your custom app, otherwise ask for a custom one dedicated to your app ;)
+Please dont ask to use one of my icons for your app, otherwise ask for a custom one (for free) ;)
 
 ### Text Corrections
 I'm not that good in english ^^ if somebody can correct wrong words and sentence, you're welcome!

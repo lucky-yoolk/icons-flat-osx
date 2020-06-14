@@ -12,8 +12,9 @@
 ### Install Apps, Folders, Volumes
 Use [LiteIcon](http://freemacsoft.net/liteicon/).You must [disable sips](http://freemacsoft.net/liteicon/sip.html) to install icons on default osx apps
 
-### Install Coda Badges
-Right click Coda App > Show Package content > Contents/Resources/ > paste files from APP-Coda2/extra folder > Restart. (Will ask for authentication)
+### Goodies
+CODA - Right click Coda App > Show Package content > Contents/Resources/ > paste files from Extra folder > Restart.
+FOLX - Right click Coda App > Show Package content > Contents/Resources/ > replace folxicon.icns file > Restart.
 
 ### Install File Types
 Right click App > Show Package content >  Contents/Resources/ > Replace heach file type > Restart. (Will ask for authentication)

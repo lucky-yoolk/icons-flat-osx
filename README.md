@@ -5,7 +5,7 @@
 ### Preview
 [https://synth.agency/lab/flat-osx/](https://synth.agency/lab/flat-osx/)
 
-*Dont hesitate to request your favorite app icon, or leave a technical help, this is my first icon set so feedback will be really appreciated :)*
+*Dont hesitate to request your favorite app icon, or leave your feedback :)*
 
 ## INSTALL
 

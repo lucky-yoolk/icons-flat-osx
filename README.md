@@ -3,7 +3,7 @@
 ![Screenshot](https://synth.agency/wp-content/uploads/2015/08/drslash-flat-icons.png)
 
 ### Preview
-[https://synth.agency/lab/flat-osx/](https://synth.agency/lab/flat-osx/)
+[https://synth.agency/blog/iconsets/flat-osx/](https://synth.agency/blog/iconsets/flat-osx/)
 
 *Dont hesitate to request your favorite app icon, or leave your feedback :)*
 
@@ -23,7 +23,7 @@ Right click App > Show Package content >  Contents/Resources/ > Replace heach fi
 FLAT OS by Synth.agency is licensed under a Creative Commons Attribution – NonCommercial 4.0 International License.
 
 ### Icons Request
-Please open an issue [here](https://github.com/synthagency/icons-flat-osx/issues).
+Head on to the discussion [here](Moved to discussion https://github.com/synthagency/icons-flat-osx/discussions).
 
 ### Create your icons
 I've included a basic template both apps and folders.

@@ -3,7 +3,7 @@
 ![Screenshot](https://synth.agency/wp-content/uploads/2015/08/drslash-flat-icons.png)
 
 ### Preview
-[https://synth.agency/blog/iconsets/flat-osx/](https://synth.agency/blog/iconsets/flat-osx/)
+[https://synth.agency/iconset/flat-osx/](https://synth.agency/iconset/flat-osx/)
 
 *Dont hesitate to request your favorite app icon, or leave your feedback :)*
 

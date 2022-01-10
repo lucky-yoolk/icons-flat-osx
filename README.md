@@ -1,9 +1,9 @@
 # FLAT ICONS FOR OSX (But Not Only)
 
-![Screenshot](https://synth.agency/wp-content/uploads/2015/08/drslash-flat-icons.png)
+![Screenshot](https://yoolk.ninja/wp-content/uploads/2015/08/drslash-flat-icons.png)
 
 ### Preview
-[https://synth.agency/iconset/flat-osx/](https://synth.agency/iconset/flat-osx/)
+[https://yoolk.ninja/iconset/flat-osx/](https://yoolk.ninja/iconset/flat-osx/)
 
 *Dont hesitate to request your favorite app icon, or leave your feedback :)*
 

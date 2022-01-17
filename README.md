@@ -23,7 +23,7 @@ Right click App > Show Package content >  Contents/Resources/ > Replace heach fi
 FLAT OS by Synth.agency is licensed under a Creative Commons Attribution – NonCommercial 4.0 International License.
 
 ### Icons Request
-Head on to the discussion [here](Moved to discussion https://github.com/synthagency/icons-flat-osx/discussions).
+Head on to the discussion [here](Moved to discussion https://github.com/lucky-yoolk/icons-flat-osx/discussions).
 
 ### Create your icons
 I've included a basic template both apps and folders.

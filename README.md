@@ -61,4 +61,4 @@ Please don't ask to use one of my icons for your app, rather ask for a custom on
 ### Text Corrections
 I'm not that fluent in English ^^
 
-Therefore if somebody can correct incorrect spelling and grammar issues, you're more than welcome to do so!
+Therefore if somebody can correct spelling and grammar issues, you're more than welcome to do so!

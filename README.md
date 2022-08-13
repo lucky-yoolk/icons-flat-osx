@@ -15,23 +15,35 @@ Use [LiteIcon](http://freemacsoft.net/liteicon/).You must [disable sips](http://
 ### Goodies
 #### CODA
 `> Right click App`
+
 `> Show Package content`
+
 `> Contents/Resources/`
+
 `> Paste files from Extra folder` 
+
 `> Restart`
 
 #### FOLX
 `> Right click App`
+
 `> Show Package content`
+
 `> Contents/Resources/`
+
 `> Replace folxicon.icns file`
+
 `> Restart`
 
 ### Install File Types
 `> Right click App`
+
 `> Show Package content`
+
 `>  Contents/Resources/`
+
 `> Replace each file type`
+
 `> Restart. (Will ask for authentication)`
 
 ## CONTRIBUTE
@@ -44,7 +56,7 @@ Head on to the discussion [here](https://github.com/lucky-yoolk/icons-flat-osx/d
 I've included a basic template for both Apps and Folders.
 
 ### App Creators
-Please don't ask to use one of my icons for your app, rather ask for a custom one (for free) ;)
+Please don't ask to use one of my icons for your app, rather ask for a custom one ;)
 
 ### Text Corrections
 I'm not that fluent in English ^^

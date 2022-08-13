@@ -14,40 +14,28 @@ Use [LiteIcon](http://freemacsoft.net/liteicon/).You must [disable sips](http://
 
 ### Goodies
 #### CODA
-`> Right click Coda App`
-
+`> Right click App`
 `> Show Package content`
-
 `> Contents/Resources/`
-
 `> Paste files from Extra folder` 
-
 `> Restart`
 
 #### FOLX
-`> Right click Coda App`
-
+`> Right click App`
 `> Show Package content`
-
 `> Contents/Resources/`
-
 `> Replace folxicon.icns file`
-
 `> Restart`
 
 ### Install File Types
 `> Right click App`
-
 `> Show Package content`
-
 `>  Contents/Resources/`
-
 `> Replace each file type`
-
 `> Restart. (Will ask for authentication)`
 
 ## CONTRIBUTE
-FLAT OS by Synth.agency is licensed under a Creative Commons Attribution – Non-Commercial 4.0 International License.
+FLAT OS by Lucky Yoolk is licensed under a Creative Commons Attribution – Non-Commercial 4.0 International License.
 
 ### Icons Request
 Head on to the discussion [here](https://github.com/lucky-yoolk/icons-flat-osx/discussions).
